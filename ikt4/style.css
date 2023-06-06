@@ -8,31 +8,24 @@ body{
 .foresz{
     border: solid black 9px;
     border-radius: 40px;
-    background: linear-gradient(150.13deg, rgba(134, 211, 255, 0.5) 0%, rgba(238, 134, 255, 0.5) 100%);
     overflow: hidden;
 }
 img{
     border-radius: 40px;
-    border: 5px solid #86d3ff;
+    border: 5px solid white;
     width: 100%;
 }
 article{
-    background-color: rgba(134, 211, 255, 0.5);
     border-radius: 40px;
     padding: 20px;
     width: 100%;
     margin: auto;
     line-height: 30px;
 }
-
-nav{
-    background-color: #86d3ff;
-}
 nav div{
     position: relative;
 }
 footer{
-    background-color: #ee86ff;
     font-family: 'Fugaz One';
     font-size: 25px;
 }
@@ -76,7 +69,7 @@ nav a{
     font-size: 33px;
     letter-spacing: 0.015em;
     z-index: 2;
-    color: #86d3ff;
+    color: #ffffff00;
     text-transform: uppercase;
 }
 main .row{
@@ -88,4 +81,38 @@ main .oszlop{
 }
 nav .col{
     padding: 0;
+}
+
+
+.kek{
+    border-color: #86d3ff;
+    background-color: #86d3ff;
+}
+.rozs{
+    border-color: #ee86ff;
+}
+.atlatszo-kek{
+    background-color: rgba(134, 211, 255, 0.5);
+}
+.kek-rozs{
+    background: linear-gradient(150.13deg, rgba(134, 211, 255, 0.5) 0%, rgba(238, 134, 255, 0.5) 100%);
+}
+.szurke-hatter{
+    background-color: rgba(62, 80, 88, 0.44);
+}
+.atlatszo-rozs{
+    background-color: #de8cec;
+}
+.zold{
+    background-color: #c2ff86;
+}
+.sarga{
+    background-color: #fff278;
+    border-color: #fff278;
+}
+.atlatszo-sarga{
+    background-color: rgba(255, 242, 120, 0.5);
+}
+.sarga-kek{
+    background: linear-gradient(162.05deg, rgba(255, 230, 6, 0.353006) 0%, rgba(0, 179, 255, 0.5) 100%);
 }
