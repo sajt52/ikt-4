@@ -5,9 +5,6 @@ body{
     background-position: 0 0;
     padding: 60px 0;
 }
-ul{
-    font-family: 'Fugaz One';
-}
 .foresz{
     border: solid black 9px;
     border-radius: 40px;
@@ -27,9 +24,7 @@ article{
     margin: auto;
     line-height: 30px;
 }
-header, nav{
-    height: 80px;
-}
+
 nav{
     background-color: #86d3ff;
 }
@@ -41,9 +36,15 @@ footer{
     font-family: 'Fugaz One';
     font-size: 25px;
 }
-.focim{
+#focim{
     font-family: 'Hepta Slab';
     font-size: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 0;
+    line-height: 80px;
 }
 p{
     font-family: 'Itim';
@@ -81,7 +82,7 @@ nav a{
 main .row{
     margin: 10px 0;
 }
-main .col{
+main .oszlop{
     display: flex;
     align-items: center;
 }
