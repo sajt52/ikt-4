@@ -5,6 +5,9 @@ body{
     background-position: 0 0;
     padding: 60px 0;
 }
+ul{
+    font-family: 'Fugaz One';
+}
 .foresz{
     border: solid black 9px;
     border-radius: 40px;
