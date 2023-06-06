@@ -69,7 +69,7 @@ nav a{
     font-size: 33px;
     letter-spacing: 0.015em;
     z-index: 2;
-    color: #ffffff00;
+    color: white;
     text-transform: uppercase;
 }
 main .row{
@@ -115,4 +115,19 @@ nav .col{
 }
 .sarga-kek{
     background: linear-gradient(162.05deg, rgba(255, 230, 6, 0.353006) 0%, rgba(0, 179, 255, 0.5) 100%);
+}
+.kek-szoveg{
+    color: #86d3ff;
+}
+.zold-szoveg{
+    color: #c2ff86;
+}
+.sarga-szoveg{
+    color: #fff278;
+}
+.piros{
+    background-color: #ff8686;
+}
+.piros-szoveg{
+    color: #ff8686;
 }
