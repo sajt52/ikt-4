@@ -69,7 +69,6 @@ nav a{
     position: absolute;
     font-family: 'GFS Didot';
     z-index: 2;
-    color: white;
     text-transform: uppercase;
 }
 main .row{
@@ -90,6 +89,7 @@ nav .col{
 }
 .rozs{
     border-color: #ee86ff;
+    background-color: #ee86ff;
 }
 .atlatszo-kek{
     background-color: rgba(134, 211, 255, 0.5);
