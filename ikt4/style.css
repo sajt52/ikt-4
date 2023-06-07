@@ -28,7 +28,6 @@ nav div{
 footer{
     font-family: 'Fugaz One';
     font-size: 25px;
-    color: black;
 }
 #focim{
     font-family: 'Hepta Slab';
@@ -131,6 +130,12 @@ nav .col{
 }
 .piros-szoveg{
     color: #ff8686;
+}
+.feher-szoveg{
+    color:white
+}
+.fekete-szoveg{
+    color:black
 }
 
 
