@@ -138,7 +138,10 @@ nav .col{
     color:black
 }
 
-
+.zold-fekete{
+    background: linear-gradient(180deg, rgba(21, 222, 41, 0.44) 0%, rgba(6, 6, 6, 0.44) 100%);
+    backdrop-filter: blur(2.5px);
+}
 .crt-jelen{
     font-size: 33px;
     letter-spacing: 0.015em;    
@@ -157,3 +160,12 @@ nav .col{
 ul{
     font-family: 'Fugaz One';
 }
+
+
+
+
+
+
+
+
+
